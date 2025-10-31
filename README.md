@@ -3,6 +3,12 @@
 ### 👥 Team : *Kalah Menang Tetap Nganggur*  
 **Fauzan Ihza Fajar · Krisna Bayu Dharma Putra · Akmal Muzakki Bakir**
 
+###  Run the Colab Notebook
+> Attention-enhanced fall detection that fuses **pose**, **appearance**, and **motion** features via a **TriDA** block and an **ensemble** of lightweight classifiers—built for accuracy *and* real-time inference.  
+
+[▶️ **Open the Full Colab Notebook**](https://colab.research.google.com/drive/1_v7Fdh5uu5uUF7F-kOrLDRYVDJoq_kwj?usp=sharing)
+
+> **Note:** The complete notebook exceeds 25 MB and is hosted on Colab.  
 ---
 
 ## 📘 Overview
@@ -140,7 +146,6 @@ cd TriDA-FallDetection
 [▶️ **Open the Full Colab Notebook**](https://colab.research.google.com/drive/1_v7Fdh5uu5uUF7F-kOrLDRYVDJoq_kwj?usp=sharing)
 
 > **Note:** The complete notebook exceeds 25 MB and is hosted on Colab.  
-> For GitHub, include a lightweight demo notebook and pre-saved configs with the link above.
 
 ---
 
