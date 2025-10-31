@@ -65,12 +65,7 @@ Ensemble Classifier → Fall / Non-Fall
 ---
 
 ### 🧩 2️⃣ Feature Integration
-Each frame is processed into three feature groups – pose, visual, and geometric – then merged using the **Trial-Channel Double Attention (TriDA)** block:  
-
-\[
-F_{TriDA} = CBAM(F_{CNN}) \oplus Pose(Mediapipe, YOLOv8) \oplus SpineVector
-\]
-
+Each frame is processed into three feature groups – pose, visual, and geometric – then merged using the **Trial-Channel Double Attention (TriDA)** block
 The output is a unified representation fed to an ensemble of classifiers to predict fall vs non-fall events robustly under class imbalance conditions.
 
 ---
