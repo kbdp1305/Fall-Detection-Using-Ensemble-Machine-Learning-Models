@@ -76,8 +76,8 @@ This balanced dataset improved recall and reduced bias toward non-fall activitie
 
 | Distribution | Before | After ADASYN |
 |:--|:--:|:--:|
-| Fall samples | ~1 200 | ~4 000 |  
-| Non-Fall samples | ~8 000 | ~8 000 |  
+| Fall samples | 2748 | 3812 |  
+| Non-Fall samples | 1546 | 3763 |  
 
 ---
 
