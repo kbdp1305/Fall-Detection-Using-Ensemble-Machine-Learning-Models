@@ -154,7 +154,7 @@ cd TriDA-FallDetection
 ## 👥 Authors
 | Name | Role | Contribution |
 |:--|:--|:--|
-| **Krisna Bayu Dharma Putra** | Team Leader · Artificial Intelligence Engineer · Model Architect | TriDA block design, training pipeline, CBAM integration, Yolov8 Pose Extractor, multi-stream pose fusion|
+| **Krisna Bayu Dharma Putra** | Team Leader · Artificial Intelligence Engineer · Model Architect | TriDA block design, training pipeline, CBAM integration, Yolov8 pose extractor, multi-stream pose fusion|
 | **Akmal Muzakki Bakir** | Artificial Intelligence Engineer | Mediapipe pose extractor and power point organizer|
 | **Fauzan Ihza Fajar** | Researcher | Paper research |
 
